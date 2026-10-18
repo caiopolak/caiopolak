@@ -1,16 +1,75 @@
-## Hi there 👋
+# Olá, eu sou o Caio Polak 👋
 
-<!--
-**caiopolak/caiopolak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full Stack em formação · Automação · IA aplicada
 
-Here are some ideas to get you started:
+Construo produtos digitais que unem **experiência visual, automação e resultado prático**. Trabalho com aplicações web, ferramentas desktop e soluções que usam IA para simplificar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, atuar com **automação**, **IA aplicada** e **prompt engineering**.
+
+<p>
+  <a href="https://github.com/caiopolak?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfólio-GitHub-181717?style=for-the-badge&logo=github" alt="Portfólio no GitHub" />
+  </a>
+  <a href="https://instagram.com/caiopolak">
+    <img src="https://img.shields.io/badge/Instagram-@caiopolak-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+## Sobre mim
+
+- 💼 Fundador da **PyNEXUS**
+- 🧠 Interesse em criar soluções com **IA, automações e integrações**
+- 🖥️ Desenvolvimento de **sites responsivos** e **aplicações desktop**
+- 🚀 Aberto a oportunidades, projetos freelance e colaborações
+- 📍 São Paulo, Brasil
+
+## Stack e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
+</p>
+
+| Área | Experiência prática |
+| --- | --- |
+| **Frontend** | HTML semântico, CSS responsivo, JavaScript, interfaces e landing pages |
+| **Python** | Aplicações desktop, automações e organização de fluxos |
+| **IA aplicada** | Criação de prompts, uso de ferramentas de IA e automação de tarefas |
+| **Produto digital** | UI/UX, branding, páginas de conversão e integrações para atendimento |
+| **Ferramentas** | Git, GitHub, VS Code, APIs e fluxos de produtividade |
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📱 Doutor Celular Informática</h3>
+      <p>Landing page responsiva criada para uma assistência técnica, com foco em SEO local, conversão e atendimento via WhatsApp.</p>
+      <p><strong>HTML · CSS · JavaScript · UX</strong></p>
+      <a href="https://github.com/caiopolak/doutorcelularinformatica_site">Ver repositório →</a>
+    </td>
+    <td width="50%">
+      <h3>🐉 Dragonbox</h3>
+      <p>Projeto de aplicativo desktop de mídia com navegação visual, organização de recursos e experiência de produto.</p>
+      <p><strong>Desktop · UI/UX · Produto digital</strong></p>
+      <a href="https://github.com/caiopolak/dragonboxtv">Ver repositório →</a>
+    </td>
+  </tr>
+</table>
+
+## Próximos passos
+
+Atualmente estou expandindo meus conhecimentos em:
+
+- Desenvolvimento Full Stack com JavaScript e Python
+- APIs, bancos de dados e autenticação
+- IA aplicada a produtos e automações
+- Arquitetura de aplicações web e boas práticas de código
+
+---
+
+<p align="center">
+  <i>“Tecnologia boa é a que resolve problemas reais.”</i><br />
+  <b>Vamos construir algo útil?</b>
+</p>
