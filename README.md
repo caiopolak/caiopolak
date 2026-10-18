@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio Polak 👋
+# Olá, eu sou o Caio 👋
 
 ### Desenvolvedor Full Stack em formação · Automação · IA aplicada
 
@@ -44,10 +44,10 @@ Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, 
 <table>
   <tr>
     <td width="50%">
-      <h3>📱 Doutor Celular Informática</h3>
-      <p>Landing page responsiva criada para uma assistência técnica, com foco em SEO local, conversão e atendimento via WhatsApp.</p>
-      <p><strong>HTML · CSS · JavaScript · UX</strong></p>
-      <a href="https://github.com/caiopolak/doutorcelularinformatica_site">Ver repositório →</a>
+      <h3>🎬 Media Kit Studio</h3>
+      <p>Aplicação desktop voltada a criadores e profissionais de mídia, com experiência de uso premium, organização de recursos e fluxos de trabalho.</p>
+      <p><strong>Python · Desktop · UI/UX · Produto digital</strong></p>
+      <a href="https://github.com/caiopolak/MEDIA-KIT-STUDIO">Ver repositório →</a>
     </td>
     <td width="50%">
       <h3>🐉 Dragonbox</h3>
