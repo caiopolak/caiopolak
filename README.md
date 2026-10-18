@@ -4,7 +4,8 @@
 
 Construo produtos digitais que unem **experiência visual, automação e resultado prático**. Trabalho com aplicações web, ferramentas desktop e soluções que usam IA para simplificar processos.
 
-Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, atuar com **automação**, **IA aplicada** e **prompt engineering**.
+Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, 
+atuar com **automação**, **IA aplicada** e **prompt engineering**.
 
 <p>
   <a href="https://github.com/caiopolak?tab=repositories">
