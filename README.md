@@ -45,17 +45,26 @@ atuar com **automação**, **IA aplicada** e **prompt engineering**.
 <table>
   <tr>
     <td width="50%">
+      <h3>💰 Plenne</h3>
+      <p>Aplicação web de gestão financeira que reúne panorama, transações, metas, investimentos, orçamentos, relatórios e orientação contextual por IA.</p>
+      <p><strong>React · TypeScript · Vite · Supabase · IA</strong></p>
+      <sub>Produto em desenvolvimento · repositório privado</sub>
+    </td>
+    <td width="50%">
       <h3>🎬 Media Kit Studio</h3>
       <p>Aplicação desktop voltada a criadores e profissionais de mídia, com experiência de uso premium, organização de recursos e fluxos de trabalho.</p>
       <p><strong>Python · Desktop · UI/UX · Produto digital</strong></p>
       <a href="https://github.com/caiopolak/MEDIA-KIT-STUDIO">Ver repositório →</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🐉 Dragonbox</h3>
       <p>Projeto de aplicativo desktop de mídia com navegação visual, organização de recursos e experiência de produto.</p>
       <p><strong>Desktop · UI/UX · Produto digital</strong></p>
       <a href="https://github.com/caiopolak/dragonboxtv">Ver repositório →</a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
