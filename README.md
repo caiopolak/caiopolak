@@ -4,15 +4,14 @@
 
 Construo produtos digitais que unem **experiência visual, automação e resultado prático**. Trabalho com aplicações web, ferramentas desktop e soluções que usam IA para simplificar processos.
 
-Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, 
-atuar com **automação**, **IA aplicada** e **prompt engineering**.
+Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, atuar com **automação**, **IA aplicada** e **prompt engineering**.
 
 <p>
   <a href="https://github.com/caiopolak?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfólio-GitHub-181717?style=for-the-badge&logo=github" alt="Portfólio no GitHub" />
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-GitHub-181717?style=for-the-badge&logo=github" alt="Portfólio no GitHub" />
   </a>
   <a href="https://instagram.com/caiopolak">
-    <img src="https://img.shields.io/badge/Instagram-@caiopolak-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40caiopolak-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -22,20 +21,23 @@ atuar com **automação**, **IA aplicada** e **prompt engineering**.
 
 - 💼 Fundador da **PyNEXUS**
 - 🧠 Interesse em criar soluções com **IA, automações e integrações**
-- 🖥️ Desenvolvimento de **sites responsivos** e **aplicações desktop**
+- 🖥️ Desenvolvimento de **sites responsivos**, **aplicações web** e **ferramentas desktop**
 - 🚀 Aberto a oportunidades, projetos freelance e colaborações
 - 📍 São Paulo, Brasil
 
 ## Stack e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode" alt="Python, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,sqlite,git,github,vscode,androidstudio" alt="Python, JavaScript, TypeScript, React, Node.js, Express, SQLite, Git, GitHub, VS Code e Android Studio" />
 </p>
 
 | Área | Experiência prática |
 | --- | --- |
-| **Frontend** | HTML semântico, CSS responsivo, JavaScript, interfaces e landing pages |
-| **Python** | Aplicações desktop, automações e organização de fluxos |
+| **Frontend** | HTML semântico, CSS responsivo, JavaScript, TypeScript, React e interfaces web |
+| **Backend** | Node.js, Express, APIs REST e persistência local com SQLite |
+| **Aplicações móveis** | Capacitor, Android e integração nativa em Java |
+| **Telefonia** | JsSIP e configuração de chamadas SIP via WebSocket |
+| **Python** | Aplicações desktop e automações |
 | **IA aplicada** | Criação de prompts, uso de ferramentas de IA e automação de tarefas |
 | **Produto digital** | UI/UX, branding, páginas de conversão e integrações para atendimento |
 | **Ferramentas** | Git, GitHub, VS Code, APIs e fluxos de produtividade |
@@ -59,12 +61,17 @@ atuar com **automação**, **IA aplicada** e **prompt engineering**.
   </tr>
   <tr>
     <td width="50%">
+      <h3>📞 Prospecta CRM</h3>
+      <p>CRM de prospecção B2B com empresas, contatos, pipeline, cadências, power dialer, VoIP/SIP e gateway GSM para Android.</p>
+      <p><strong>TypeScript · React · Node.js · Express · SQLite · Capacitor · JsSIP</strong></p>
+      <a href="https://github.com/caiopolak/prospecta-crm">Ver repositório →</a>
+    </td>
+    <td width="50%">
       <h3>🐉 Dragonbox</h3>
       <p>Projeto de aplicativo desktop de mídia com navegação visual, organização de recursos e experiência de produto.</p>
       <p><strong>Desktop · UI/UX · Produto digital</strong></p>
       <a href="https://github.com/caiopolak/dragonboxtv">Ver repositório →</a>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
@@ -72,7 +79,7 @@ atuar com **automação**, **IA aplicada** e **prompt engineering**.
 
 Atualmente estou expandindo meus conhecimentos em:
 
-- Desenvolvimento Full Stack com JavaScript e Python
+- Desenvolvimento Full Stack com JavaScript, TypeScript e Python
 - APIs, bancos de dados e autenticação
 - IA aplicada a produtos e automações
 - Arquitetura de aplicações web e boas práticas de código
