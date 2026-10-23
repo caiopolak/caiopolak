@@ -19,7 +19,7 @@ Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, 
 
 ## Sobre mim
 
-- 💼 Fundador da **PyNEXUS**
+- 💼 Fundador da **PyNEXUS.digital**
 - 🧠 Interesse em criar soluções com **IA, automações e integrações**
 - 🖥️ Desenvolvimento de **sites responsivos**, **aplicações web** e **ferramentas desktop**
 - 🚀 Aberto a oportunidades, projetos freelance e colaborações
