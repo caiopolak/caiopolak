@@ -50,7 +50,8 @@ Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, 
       <h3>💰 Plenne</h3>
       <p>Aplicação web de gestão financeira que reúne panorama, transações, metas, investimentos, orçamentos, relatórios e orientação contextual por IA.</p>
       <p><strong>React · TypeScript · Vite · Supabase · IA</strong></p>
-      <sub>Produto em desenvolvimento · repositório privado</sub>
+      <sub>Projeto em desenvolvimento privado.</sub>
+      <a href="https://plenne.site">Acessar aplicação →</a>
     </td>
     <td width="50%">
       <h3>🎬 Media Kit Studio</h3>
