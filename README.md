@@ -10,7 +10,7 @@ Estou em busca de oportunidades para crescer como **Desenvolvedor Full Stack**, 
   <a href="https://github.com/caiopolak?tab=repositories">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-GitHub-181717?style=for-the-badge&logo=github" alt="Portfólio no GitHub" />
   </a>
-  <a href="https://instagram.com/caiopolak">
+  <a href="https://instagram.com/noawge">
     <img src="https://img.shields.io/badge/Instagram-%40caiopolak-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
